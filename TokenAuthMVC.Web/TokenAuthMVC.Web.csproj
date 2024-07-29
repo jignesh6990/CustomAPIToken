@@ -83,6 +83,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="HTML\B2.html" />
+    <Content Include="HTML\B2Test.html" />
     <Content Include="Scripts\script.js" />
     <Content Include="Scripts\security.js" />
     <Content Include="Web.config" />
